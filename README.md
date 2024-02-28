@@ -2,7 +2,7 @@
 This repository contains Python scripts to perform an Extract, Transform, Load (ETL) process on data stored in a CSV file and load it into a PostgreSQL database. 
 
 ### Pipeline 
-
+![ETL Pipeline Diagram](https://github.com/suetlingg/ETL-Projects-/blob/main/Pipeline.png)
 
 ### SQL Query 
 1. What is the top 10 highest transaction of supplier/supplying plant and which group?
